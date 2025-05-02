@@ -23,7 +23,7 @@
       <AutoIncrementBuild Value="True"/>
       <MinorVersionNr Value="1"/>
       <RevisionNr Value="2"/>
-      <BuildNr Value="15"/>
+      <BuildNr Value="17"/>
       <StringTable Comments="QRLinx" CompanyName="Lakosta Ltd" FileDescription="QRLinx generates QR codes containing clipboard data (e.g., URLs) for seamless transfer to other devices."/>
     </VersionInfo>
     <BuildModes>
@@ -63,6 +63,7 @@
         <Filename Value="unit2.pas"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="Unit2"/>
       </Unit>
